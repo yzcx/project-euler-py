@@ -1,5 +1,5 @@
 
-# Project Euler problem 19
+# Project Euler problem 19: counting Sundays
 
 import datetime # I know I can use datetime library to handle calendar logic
 

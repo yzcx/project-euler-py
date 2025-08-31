@@ -1,5 +1,5 @@
 
-# Project Euler problem 18
+# Project Euler problem 18: maximum path sum
 
 matrix = """75
 95 64

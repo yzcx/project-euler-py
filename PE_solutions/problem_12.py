@@ -1,5 +1,5 @@
 
-# Project Euler problem 12
+# Project Euler problem 12: highly divisible triangular number
 
 from sympy import divisors
 

@@ -1,5 +1,5 @@
 
-# Project Euler problem 15
+# Project Euler problem 15: lattice paths
 
 def lattice_path_dp(n: int = 2) -> int:
     matrix = [[0] * (n + 1) for _ in range(n + 1)] # Creating grid to store number of paths to each spot

@@ -1,5 +1,5 @@
 
-# Project Euler problem 5
+# Project Euler problem 5: smallest multiples
 
 import math
 

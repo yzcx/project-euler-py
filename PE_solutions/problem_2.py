@@ -1,5 +1,5 @@
 
-# Project Euler problem 2
+# Project Euler problem 2: even fibonacci numbers
 
 total = 2 # The first even term
 first = 1

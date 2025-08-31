@@ -1,5 +1,5 @@
 
-# Project Euler problem 20
+# Project Euler problem 20: factorial digit sum
 
 import math
 

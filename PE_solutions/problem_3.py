@@ -1,5 +1,5 @@
 
-# Project Euler problem 3
+# Project Euler problem 3: largest prime factor
 
 from sympy.ntheory import primefactors # Using primefactors function from sympy library to find prime factors
 

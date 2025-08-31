@@ -1,5 +1,5 @@
 
-# Project Euler problem 11
+# Project Euler problem 11: largest product in a grid
 
 def largest_product(grid):
     rows = len(grid)

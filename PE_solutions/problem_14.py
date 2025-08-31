@@ -1,5 +1,5 @@
 
-# Project Euler problem 14
+# Project Euler problem 14: longest collatz sequence
 
 def count_collatz(number: int) -> int:
     count = 1

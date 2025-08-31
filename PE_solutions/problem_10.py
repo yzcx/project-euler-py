@@ -1,5 +1,5 @@
 
-# Project Euler problem 10
+# Project Euler problem 10: summation of primes
 
 def prime(num):
     for i in range(2, int((num**0.5))+1): # Divisors only up to square root of number

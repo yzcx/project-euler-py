@@ -1,5 +1,5 @@
 
-# Project Euler problem 4
+# Project Euler problem 4: largest palindrome product
 
 number = 9999
 if str(number) == str(number)[::-1]:  # Checks if the string follows palindromic logic

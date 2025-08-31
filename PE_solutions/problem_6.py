@@ -1,5 +1,5 @@
 
-# Project Euler problem 6
+# Project Euler problem 6: sum square difference
 
 sum_of_squares = 0
 sum_of_numbers = 0

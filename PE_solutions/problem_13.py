@@ -1,5 +1,5 @@
 
-# Project Euler problem 13
+# Project Euler problem 13: large sum
 
 def solve():
     num_list = """37107287533902102798797998220837590246510135740250

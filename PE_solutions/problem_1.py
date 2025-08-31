@@ -1,5 +1,5 @@
 
-# Project Euler problem 1
+# Project Euler problem 1: multiples of 3 or 5
 
 total = 0
 for i in range(1, 1000):
