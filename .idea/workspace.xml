@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117e0944-48b4-43ad-b5d0-c6e62b3c77e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_36.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,8 @@
     "Python.problem_32.executor": "Run",
     "Python.problem_33.executor": "Run",
     "Python.problem_34.executor": "Run",
+    "Python.problem_35.executor": "Run",
+    "Python.problem_36.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
@@ -91,6 +93,7 @@
       <workItem from="1757250780956" duration="6146000" />
       <workItem from="1757363797905" duration="3254000" />
       <workItem from="1757531914090" duration="4744000" />
+      <workItem from="1757585652179" duration="1496000" />
     </task>
     <servers />
   </component>
@@ -112,9 +115,11 @@
     <SUITE FILE_PATH="coverage/project_euler_py$problem_27.coverage" NAME="problem_27 Coverage Results" MODIFIED="1757257769210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_6.coverage" NAME="problem_6 Coverage Results" MODIFIED="1755620776333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_34.coverage" NAME="problem_34 Coverage Results" MODIFIED="1757543987958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
+    <SUITE FILE_PATH="coverage/project_euler_py$problem_36.coverage" NAME="problem_36 Coverage Results" MODIFIED="1757587099229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_2.coverage" NAME="problem_2 Coverage Results" MODIFIED="1755461643382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_26.coverage" NAME="problem_26 Coverage Results" MODIFIED="1757257361444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_31.coverage" NAME="problem_31 Coverage Results" MODIFIED="1757444452369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
     <SUITE FILE_PATH="coverage/project_euler_py$problem_3.coverage" NAME="problem_3 Coverage Results" MODIFIED="1755558282796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/project_euler_py$problem_35.coverage" NAME="problem_35 Coverage Results" MODIFIED="1757586717352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PE_solutions" />
   </component>
 </project>
