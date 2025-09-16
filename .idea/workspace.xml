@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117e0944-48b4-43ad-b5d0-c6e62b3c77e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_46.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.problem_42.executor": "Run",
     "Python.problem_43.executor": "Run",
     "Python.problem_44.executor": "Run",
+    "Python.problem_46.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,7 +84,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
         <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
@@ -104,7 +104,8 @@
       <workItem from="1757585652179" duration="4413000" />
       <workItem from="1757713332763" duration="1514000" />
       <workItem from="1757781823188" duration="1081000" />
-      <workItem from="1757888343379" duration="4376000" />
+      <workItem from="1757888343379" duration="4426000" />
+      <workItem from="1758042260210" duration="10000" />
     </task>
     <servers />
   </component>
