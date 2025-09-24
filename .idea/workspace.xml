@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117e0944-48b4-43ad-b5d0-c6e62b3c77e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_62.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_59.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_60.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_60.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,61 +34,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.problem_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_26.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_36.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_37.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_38.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_39.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_40.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_41.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_42.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_43.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_44.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_46.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_47.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_49.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_50.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_51.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_52.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_53.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_54.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_55.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_56.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_57.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_58.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.problem_1.executor": "Run",
+    "Python.problem_2.executor": "Run",
+    "Python.problem_23.executor": "Run",
+    "Python.problem_24.executor": "Run",
+    "Python.problem_25.executor": "Run",
+    "Python.problem_26.executor": "Run",
+    "Python.problem_27.executor": "Run",
+    "Python.problem_28.executor": "Run",
+    "Python.problem_29.executor": "Run",
+    "Python.problem_3.executor": "Run",
+    "Python.problem_30.executor": "Run",
+    "Python.problem_31.executor": "Run",
+    "Python.problem_32.executor": "Run",
+    "Python.problem_33.executor": "Run",
+    "Python.problem_34.executor": "Run",
+    "Python.problem_35.executor": "Run",
+    "Python.problem_36.executor": "Run",
+    "Python.problem_37.executor": "Run",
+    "Python.problem_38.executor": "Run",
+    "Python.problem_39.executor": "Run",
+    "Python.problem_4.executor": "Run",
+    "Python.problem_40.executor": "Run",
+    "Python.problem_41.executor": "Run",
+    "Python.problem_42.executor": "Run",
+    "Python.problem_43.executor": "Run",
+    "Python.problem_44.executor": "Run",
+    "Python.problem_46.executor": "Run",
+    "Python.problem_47.executor": "Run",
+    "Python.problem_49.executor": "Run",
+    "Python.problem_5.executor": "Run",
+    "Python.problem_50.executor": "Run",
+    "Python.problem_51.executor": "Run",
+    "Python.problem_52.executor": "Run",
+    "Python.problem_53.executor": "Run",
+    "Python.problem_54.executor": "Run",
+    "Python.problem_55.executor": "Run",
+    "Python.problem_56.executor": "Run",
+    "Python.problem_57.executor": "Run",
+    "Python.problem_58.executor": "Run",
+    "Python.problem_59.executor": "Run",
+    "Python.problem_6.executor": "Run",
+    "Python.problem_60.executor": "Run",
+    "Python.problem_61.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\amelia\OneDrive\Documents\GitHub\project-euler-py\python" />
