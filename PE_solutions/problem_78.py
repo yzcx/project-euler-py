@@ -1,5 +1,5 @@
 
-# Project Euler problem 77: coin partitions
+# Project Euler problem 78: coin partitions
 
 import itertools
 
