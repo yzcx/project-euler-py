@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117e0944-48b4-43ad-b5d0-c6e62b3c77e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_83.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_86.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +100,9 @@
     "Python.problem_81.executor": "Run",
     "Python.problem_82.executor": "Run",
     "Python.problem_83.executor": "Run",
+    "Python.problem_84.executor": "Run",
+    "Python.problem_85.executor": "Run",
+    "Python.problem_86.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
