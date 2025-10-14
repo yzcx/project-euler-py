@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="117e0944-48b4-43ad-b5d0-c6e62b3c77e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_solutions/problem_104.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_97.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_97.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_98.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_98.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_solutions/problem_99.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_solutions/problem_99.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,8 @@
     "Python.problem_100.executor": "Run",
     "Python.problem_101.executor": "Run",
     "Python.problem_102.executor": "Run",
+    "Python.problem_103.executor": "Run",
+    "Python.problem_104.executor": "Run",
     "Python.problem_2.executor": "Run",
     "Python.problem_23.executor": "Run",
     "Python.problem_24.executor": "Run",
